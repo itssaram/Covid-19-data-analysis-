@@ -1,2 +1,2 @@
 # Covid-19-data-analysis
-data processing and analysis on covid dataset.
+Data processing and analysis on covid dataset using Pandas and Metaplotlib libraries.
